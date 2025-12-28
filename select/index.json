@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Holy Light",
+  "base_artist": "imase",
+  "createdAt": "2025-12-28T02:39:34.149151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Through the Sea of Ice / Quest for the Holy Light",
+      "artist": "Magic Kingdom",
+      "has_synced": false,
+      "path": "select/01_Through_the_Sea_of_Ice___Quest_for_the_Holy_Light_Magic_Kingdom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Through the Sea of Ice\u0000Quest for the Holy Light",
+      "artist": "Magic Kingdom",
+      "has_synced": false,
+      "path": "select/02_Through_the_Sea_of_Ice\u0000Quest_for_the_Holy_Light_Magic_Kingdom.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Holy Light",
+      "artist": "Phil Wickham",
+      "has_synced": true,
+      "path": "select/03_Holy_Light_Phil_Wickham.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Holy Light - Acoustic",
+      "artist": "Phil Wickham",
+      "has_synced": true,
+      "path": "select/04_Holy_Light_-_Acoustic_Phil_Wickham.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holy Light (Acoustic)",
+      "artist": "Phil Wickham",
+      "has_synced": true,
+      "path": "select/05_Holy_Light_(Acoustic)_Phil_Wickham.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holy Love, Holy Light",
+      "artist": "Maranatha! Music",
+      "has_synced": false,
+      "path": "select/06_Holy_Love,_Holy_Light_Maranatha!_Music.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Holy Love, Holy Light",
+      "artist": "Maranatha! Singers",
+      "has_synced": false,
+      "path": "select/07_Holy_Love,_Holy_Light_Maranatha!_Singers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Holy Love, Holy Light",
+      "artist": "Maranatha Singers",
+      "has_synced": false,
+      "path": "select/08_Holy_Love,_Holy_Light_Maranatha_Singers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Holy Light",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/09_Holy_Light_imase.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Metallic Tragedy - Chapter 2: The Holy Pentalogy - Through The Sea Of Ice / Quest For The Holy Light",
+      "artist": "Magic Kingdom",
+      "has_synced": false,
+      "path": "select/10_Metallic_Tragedy_-_Chapter_2__The_Holy_Pentalogy_-_Through_The_Sea_Of_Ice___Ques_Magic_Kingdom.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Holy Light",
+      "artist": "Phil Wickham",
+      "has_synced": true,
+      "path": "select/11_Holy_Light_Phil_Wickham.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Holy light ~八神ヒカリのテーマ~",
+      "artist": "荒木香恵",
+      "has_synced": false,
+      "path": "select/12_Holy_light_~八神ヒカリのテーマ~_荒木香恵.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Holy light ~Yagami Hikari no Theme~",
+      "artist": "Araki Kae",
+      "has_synced": false,
+      "path": "select/13_Holy_light_~Yagami_Hikari_no_Theme~_Araki_Kae.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Through The Sea Of Ice _ Quest For The Holy Light",
+      "artist": "Magic Kingdom",
+      "has_synced": false,
+      "path": "select/14_Through_The_Sea_Of_Ice___Quest_For_The_Holy_Light_Magic_Kingdom.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holy Light",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_Holy_Light_imase.txt"
+    }
+  ]
+}
